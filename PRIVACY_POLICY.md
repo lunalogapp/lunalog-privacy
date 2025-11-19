@@ -1,6 +1,6 @@
 # LunaLog Privacy Policy
 
-**Last Updated: November 18, 2024**
+**Last Updated: November 18, 2025**
 
 ## Introduction
 
