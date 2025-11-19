@@ -123,14 +123,14 @@ If you are a California resident, you have the right to:
 Know what personal information is collected
 Request deletion of personal information
 Opt-out of sale of personal information (we do not sell data)
-To exercise these rights, contact us at support@lunalog.app
+To exercise these rights, contact us at lunalogapp@gmail.com
 
 Contact Us
 If you have questions or concerns about this Privacy Policy or our data practices:
 
-Email: support@lunalog.app
+Email: lunalogapp@gmail.com
 
-Developer: Bradley Dobbs
+Developers: Brad Dobbs and Louisa Weidl
 
 We will respond to privacy inquiries within 30 days.
 
