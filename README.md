@@ -1,0 +1,2 @@
+# lunalog-privacy
+Privacy Policy
